@@ -1,4 +1,4 @@
-# Segmenation
+ # Segmenation
 
 Introduction
 
@@ -10,7 +10,7 @@ Solution: I used clustering techniques to solve the problem.  In this notebook, 
 
 import different features I previously created in SQL like Number_of_days,Number_of_weeks, Hour_of_stay, weekdays_showup, 
 
-weekend_showup, early_morning_showup, late_night_showup, and .. and then process the data and categorize the customors using the 
+weekend_showup, early_morning_showup, late_night_showup, etc and then process the data and categorize the customors using the 
 
 features.
 
